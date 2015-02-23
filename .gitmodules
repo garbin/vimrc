@@ -1,0 +1,3 @@
+[submodule "sources_non_forked/nerdcommenter"]
+	path = sources_non_forked/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
